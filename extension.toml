@@ -1,6 +1,6 @@
 id = "mcp-server-linear-dvcrn"
 name = "Linear MCP Server"
-description = "Adds tools for interacting with Linear to Zed Agent. \n👉 Read GitHub for setup!"
+description = "Adds tools for interacting with Linear to Zed Agent with multiple workspaces support. \n👉 Read GitHub for setup instructions!"
 version = "1.6.0"
 schema_version = 1
 authors = ["David Mohl <zed@d.sh>"]

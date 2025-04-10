@@ -1,0 +1,10 @@
+id = "mcp-server-linear-dvcrn"
+name = "Linear MCP Server"
+description = "Adds tools for interacting with Linear to Zed Agent. \n👉 Read GitHub for setup!"
+version = "1.6.0"
+schema_version = 1
+authors = ["David Mohl <zed@d.sh>"]
+repository = "https://github.com/dvcrn/zed-mcp-server-linear"
+
+[context_servers.mcp-server-linear]
+name = "Linear MCP Server"
